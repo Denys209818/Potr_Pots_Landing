@@ -1,43 +1,43 @@
 # Potr Pots Landing
 
-## Короткий опис проєкту
+## Project Overview
 
-Potr Pots Landing — це лендінгова сторінка, створена для демонстрації продукції. Проєкт забезпечує привабливий та адаптивний дизайн із використанням сучасних веб-технологій.
+Potr Pots Landing is a landing page created to showcase products. The project features an attractive and responsive design built with modern web technologies.
 
-## Технології, які використовували
+## Technologies Used
 
-- **Parcel** для збірки проєкту
-- **HTML** для структури сторінки
-- **CSS** (методологія BEM) для стилізації
-- **JavaScript** для інтерактивності
+- **Parcel** for project bundling
+- **HTML** for page structure
+- **CSS** (BEM methodology) for styling
+- **JavaScript** for interactivity
 
-## Посилання на прев'ю
+## Preview Link
 
-[Переглянути сайт](https://denys209818.github.io/Potr_Pots_Landing/)
+[View Site](https://denys209818.github.io/Potr_Pots_Landing/)
 
-## Посилання на макет
+## Design Link
 
-[Посилання на макет](https://www.figma.com/file/50zgLU65Mcd3MisFHMfLfx/POTR-POTS_FE-students?node-id=1760%3A281)
+[Design on Figma](https://www.figma.com/file/50zgLU65Mcd3MisFHMfLfx/POTR-POTS_FE-students?node-id=1760%3A281)
 
-## Додаткові інструкції із запуску
+## Additional Instructions for Setup
 
-1. Клонуйте репозиторій до себе локально:
+1. Clone the repository locally:
    ```bash
    git clone https://github.com/Denys209818/Potr_Pots_Landing.git
    ```
-2. Перейдіть у директорію проєкту:
+2. Navigate to the project directory:
    ```bash
    cd Potr_Pots_Landing
    ```
-3. Встановіть залежності за допомогою npm:
+3. Install dependencies using npm:
    ```bash
    npm install
    ```
-4. Запустіть локальний сервер для розробки:
+4. Start the development server:
    ```bash
    npm start
    ```
-5. Відкрийте у браузері адресу [http://localhost:1234](http://localhost:3000).
+5. Open the following URL in your browser: [http://localhost:1234](http://localhost:1234).
 
-> **Примітка**: Для успішного запуску потрібна встановлена Node.js.
+> **Note**: Ensure that Node.js is installed on your system for successful setup.
 
