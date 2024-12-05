@@ -1,4 +1,43 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Potr Pots Landing
+
+## Короткий опис проєкту
+
+Potr Pots Landing — це лендінгова сторінка, створена для демонстрації продукції. Проєкт забезпечує привабливий та адаптивний дизайн із використанням сучасних веб-технологій.
+
+## Технології, які використовували
+
+- **Parcel** для збірки проєкту
+- **HTML** для структури сторінки
+- **CSS** (методологія BEM) для стилізації
+- **JavaScript** для інтерактивності
+
+## Посилання на прев'ю
+
+[Переглянути сайт](https://denys209818.github.io/Potr_Pots_Landing/)
+
+## Посилання на макет
+
+[Посилання на макет](https://www.figma.com/file/50zgLU65Mcd3MisFHMfLfx/POTR-POTS_FE-students?node-id=1760%3A281)
+
+## Додаткові інструкції із запуску
+
+1. Клонуйте репозиторій до себе локально:
+   ```bash
+   git clone <посилання-на-репозиторій>
+   ```
+2. Перейдіть у директорію проєкту:
+   ```bash
+   cd Potr_Pots_Landing
+   ```
+3. Встановіть залежності за допомогою npm:
+   ```bash
+   npm install
+   ```
+4. Запустіть локальний сервер для розробки:
+   ```bash
+   npm start
+   ```
+5. Відкрийте у браузері адресу [http://localhost:1234](http://localhost:3000).
+
+> **Примітка**: Для успішного запуску потрібна встановлена Node.js.
+
