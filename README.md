@@ -23,7 +23,7 @@ Potr Pots Landing — це лендінгова сторінка, створен
 
 1. Клонуйте репозиторій до себе локально:
    ```bash
-   git clone <посилання-на-репозиторій>
+   git clone https://github.com/Denys209818/Potr_Pots_Landing.git
    ```
 2. Перейдіть у директорію проєкту:
    ```bash
